@@ -4,10 +4,10 @@
 Carregar o arquivo com os dados dos clientes para iniciar a análise.
 
 ## Passo 2: Visualizar e entender a base de dados
-Analisar as informações disponíveis, entender as colunas e identificar possíveis inconsistências.
+Analisar as informações disponíveis, entender as colunas e identificar possíveis inconsistências. Informações que não ajuda, atrapalham.
 
 ## Passo 3: Tratar os dados
-Corrigir problemas na base, como valores ausentes, informações incorretas ou dados que possam prejudicar a análise.
+Corrigir problemas na base, como valores ausentes, informações incorretas ou dados que possam prejudicar a análise. Valores em formatos errados, informações vazias ou infomações inúteis.
 
 ## Passo 4: Realizar uma análise inicial
 Verificar a quantidade de clientes ativos e inativos e entender a proporção de cancelamentos.
