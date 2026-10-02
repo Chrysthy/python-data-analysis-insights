@@ -90,3 +90,26 @@ Customers with payment delays greater than 20 days showed a higher occurrence of
 
 <br>
 
+## ⚙️ Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Chrysthy/python-data-analysis-insights.git
+```
+
+Access the project folder:
+
+```bash
+cd python-data-analysis-insights
+```
+
+Install the dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+<br>
+
+
