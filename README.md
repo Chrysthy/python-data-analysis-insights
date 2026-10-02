@@ -65,3 +65,28 @@ Evaluate how different variables may influence customer churn.
 Use the analysis results to identify actions that may help reduce customer cancellations.
 
 <br>
+
+## 📊 Main Insights
+
+### Monthly contracts
+
+Customers with monthly contracts showed a higher occurrence of churn.
+
+**Possible action:** offer incentives or discounts for migration to quarterly or annual contracts.
+
+### Call center interactions
+
+Customers with more than four calls to the call center showed a higher occurrence of churn.
+
+This may indicate recurring problems that are not being resolved.
+
+**Possible action:** create an alert when a customer contacts the call center three times.
+
+### Payment delays
+
+Customers with payment delays greater than 20 days showed a higher occurrence of churn.
+
+**Possible action:** create an alert after 15 days of payment delay to allow preventive action.
+
+<br>
+
