@@ -17,3 +17,15 @@
 </p>
 
 <br>
+
+## 🛠 Technologies
+
+- Python
+- Pandas
+- Plotly
+- Jupyter Notebook
+- OpenPyXL
+- CSV
+- Git and GitHub
+
+<br>
