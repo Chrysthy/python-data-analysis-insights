@@ -112,4 +112,26 @@ pip install -r requirements.txt
 
 <br>
 
+## 📝 Additional Information
+
+This project uses a dataset obtained from Kaggle, provided in CSV format and read using `pandas`.
+
+Dataset source: Kaggle
+
+For projects that involve extracting tables from PDF files, the `tabula-py` library can be used to convert PDF tables into DataFrames for analysis with pandas.
+
+Additional study notes and useful Python/Pandas commands can be found in:
+
+```text
+docs/useful-snippets.md
+```
+
+Detailed analysis notes can be found in:
+
+```text
+docs/analysis-insights.md
+```
+
+<br>
+
 
