@@ -37,3 +37,31 @@ This project analyzes a dataset with over 800,000 customers to identify the main
 The goal is to understand patterns among inactive customers and identify possible actions that could help reduce the churn rate.
 
 <br>
+
+## 🔄 Workflow
+
+### Step 1: Import the dataset
+
+Load the customer dataset for analysis.
+
+### Step 2: Explore the data
+
+Understand the available information, columns and possible inconsistencies.
+
+### Step 3: Clean the data
+
+Remove unnecessary information and handle missing or inconsistent values.
+
+### Step 4: Perform an initial analysis
+
+Analyze the distribution between active and cancelled customers.
+
+### Step 5: Perform a detailed analysis
+
+Evaluate how different variables may influence customer churn.
+
+### Step 6: Identify possible actions
+
+Use the analysis results to identify actions that may help reduce customer cancellations.
+
+<br>
