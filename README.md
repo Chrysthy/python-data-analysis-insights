@@ -134,6 +134,12 @@ Detailed analysis notes can be found in:
 docs/analysis-insights.md
 ```
 
+
 <br>
 
+## 📜 License
+
+* This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/)
+
+<br>
 
